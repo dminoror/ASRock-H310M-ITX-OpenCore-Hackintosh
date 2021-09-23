@@ -24,18 +24,18 @@
 
 **GPU**
 
-HDMI、Displayport 能用，DVI 沒測試
+HDMI、Displayport 能用，DVI 沒測試  
 雙螢幕時，開機後必定花屏，插拔任一螢幕後正常
 
-HDMI & Displayport work, DVI not tested.
-Memory error happens when startup in dual monitors, replug any monitor will make it fine.
+HDMI & Displayport work, DVI not tested.  
+Memory error happens when startup in dual monitors, replug any monitor will make they fine.  
 
 
 **WIFI**
 
 無線網路正常，AirDrop 無法使用
 
-WiFi OK, AirDrop not work.
+WiFi OK, AirDrop not work.  
 
 
 **Bluetooth**
