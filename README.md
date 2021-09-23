@@ -1,7 +1,5 @@
 # ASRock H310M-ITX/AC OpenCore Hackintosh
 
-## Hardwares 
-
 **CPU：** **Intel i5-8400**
 
 **MB：ASRock H310M-ITX/AC**
@@ -19,6 +17,7 @@
 
 --------
 ![screenshot.png](https://raw.githubusercontent.com/dminoror/ASRock-H310M-ITX-OpenCore-Hackintosh/main/screenshot.jpg)
+
 --------
 
 ## 已知問題 Known issues
